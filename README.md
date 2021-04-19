@@ -1,17 +1,17 @@
 ## Hi 👋 I am Taha Kazan!
 I'm a senior in Computer Programming, mostly a self-taught full-stack developer, currently working on C #, Angular, Flutter and open to lifelong learning
 
-<img align="center" style="margin-top:50px" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="600" height="300" />
-
+<p align = "center">
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="600" height="300" />
+</p>
 
 
 <b>My Github Stats</b>
-<p align = "center">
+<p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api?username=TahaKazan29&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=TahaKazan29&show_icons=true&theme=radical&locale=en&layout=compact" alt="tahakazan" />
 </p>
-  <p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TahaKazan29&show_icons=true&theme=radical&locale=en&layout=compact" alt="tahakazan" />
-</p>
+ 
 
 
 
