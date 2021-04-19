@@ -7,9 +7,9 @@ I am experienced in Computer Programming, mostly a self-taught full-stack develo
 
 
 ### My Github Stats
-<p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api?username=TahaKazan29&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=TahaKazan29&show_icons=true&theme=radical&locale=en&layout=compact" alt="tahakazan" />
+<p align = "center">
+  <img height=175 src = "https://github-readme-stats.vercel.app/api?username=TahaKazan29&show_icons=true&theme=radical&line_height=27">
+  <img height=175 src = "https://github-readme-stats.vercel.app/api/top-langs?username=TahaKazan29&show_icons=true&theme=radical&locale=en&layout=compact" alt="tahakazan" />
 </p>
  
 
