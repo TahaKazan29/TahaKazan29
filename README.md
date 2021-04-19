@@ -1,7 +1,7 @@
 ## Hi 👋 I am Taha Kazan!
 I'm a senior in Computer Programming, mostly a self-taught full-stack developer, currently working on C #, Angular, Flutter and open to lifelong learning
 
-<img align="right" style="margin-top:50px" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="440" />
+<img align="center" style="margin-top:50px" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="600" height="300" />
 
 
 
