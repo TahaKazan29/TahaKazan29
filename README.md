@@ -1,5 +1,5 @@
 ## Hi 👋 I am Taha Kazan!
-I am experienced in Computer Programming, mostly a self-taught full-stack developer and currently working on C #, Angular, Flutter. I am open to lifelong learning.
+I am experienced in Computer Programming, mostly a self-taught full-stack developer and currently working on C #, Java, Reactjs. I am open to lifelong learning.
 
 <p align = "center">
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="600" height="300" />
